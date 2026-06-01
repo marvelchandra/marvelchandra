@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-blue??&style=for-the-badge&logo=opsgenie&logoColor=white)](https://marvelchandra.github.io/recruiting-portfolio)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://linkedin.com/in/chandrabuduri)
+[![Email](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budri.chandra@gmail.com)
 
 [![Github Stats](https://github-stats-alpha.vercel.app/api?username=marvelchandra&cc=008080&tc=FFFFFF&ic=FFFFFF&bc=000000)](https://github.com/marvelchandra)
 
