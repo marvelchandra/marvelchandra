@@ -10,11 +10,11 @@
 
 ### 🎯 About Me
 
-- 🏢 **15+ years** in Talent Acquisition — from agency to in-house to founding recruiter
+- 🏢 **10+ years** in Talent Acquisition — from agency to in-house to founding recruiter
 - 🚀 Founding Recruiter at **5+ startups** across AI/ML, Semiconductor & Deep Tech
 - 🤖 Passionate about **AI-powered sourcing**, recruiting automation & people ops tooling
 - 🛠️ Building **open-source tools** for HR · Talent · Recruiting & People Ops
-- 📍 Based in **Fremont, CA**
+- 📍 Based in **San Francisco Bay Area**
 
 ---
 
