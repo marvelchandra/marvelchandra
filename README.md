@@ -11,6 +11,7 @@
 ### 🎯 About Me
 
 - 🏢 **10+ years** in Talent Acquisition — from agency to in-house to founding recruiter
+- 📈 **1000+ hires** closed across Engineering, GTM & G&A — including 8 years at **Cisco**
 - 🚀 Founding Recruiter at **5+ startups** across AI/ML, Semiconductor & Deep Tech
 - 🤖 Passionate about **AI-powered sourcing**, recruiting automation & people ops tooling
 - 🛠️ Building **open-source tools** for HR · Talent · Recruiting & People Ops
@@ -37,5 +38,6 @@
 
 ### 📫 Let's Connect
 
+- 🏠 [marvelchandra.github.io](https://marvelchandra.github.io/) — homepage
 - 💼 [LinkedIn — chandrabuduri](https://linkedin.com/in/chandrabuduri)
 - 🌐 [marvelchandra.github.io/recruiting-portfolio](https://marvelchandra.github.io/recruiting-portfolio)
